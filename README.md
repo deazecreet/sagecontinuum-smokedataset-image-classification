@@ -18,11 +18,5 @@ The core of this project is building and training a convolutional neural network
 ## Results
 The model achieved over 94% accuracy on both training and validation sets, demonstrating its effectiveness in smoke detection from images. A detailed evaluation, including accuracy and loss plots, provides insights into the model's performance over epochs.
 
-## Usage
-Instructions on how to run the model, including installing necessary libraries, loading the dataset, and executing the model training and evaluation scripts.
-
-## Future Work
-Suggestions for further improving the model's accuracy, potential additional datasets to consider, and other machine learning techniques or architectures that could be applied to this problem.
-
 ## Acknowledgments
 Credit to the `sagecontinuum/smokedataset` creators and any other resources that significantly aided the project.
