@@ -1,4 +1,4 @@
-# sagecontinuum-smokedataset-image-classification
+# Sagecontinuum Smoke Dataset Image Classification
 
 ## Overview
 This project focuses on developing a machine learning model for smoke detection using the Python programming language, primarily leveraging TensorFlow and Keras. The project utilizes a pre-trained VGG16 model as the backbone for feature extraction, demonstrating the application of transfer learning to achieve high accuracy in classifying images into smoke, cloud, or other categories.
